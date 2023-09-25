@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Science for Agriculture
+title:            Machine Learning for Agriculture and Natural Systems
 description:      'How to manage and manipulate data for agricultural research'
-url:              http://palderman.github.io/DataSciAg
-baseurl:          /DataSciAg
-email:            phillip.alderman@okstate.edu
+url:              http://okstate-wade.github.io/MLAgNR
+baseurl:          /MLAgNR
+email:            jeff.sadler@okstate.edu
 
 author:
-  name:           'Phillip Alderman'
+  name:           'Jeff Sadler'
   url:            http://pss.okstate.edu/People/faculty-1/faculty-info/alderman-phillip/phillip-alderman
 
 github:
-  repo:           https://github.com/palderman/DataSciAg
+  repo:           https://okstate-wade.github.io/MLAgNR
   #               Be sure the 'Issues' feature is activated in 'Settings'
